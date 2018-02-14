@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Countries Viewer</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="try_find">Try to find!</string>
+    <string name="country_name">Country name</string>
+    <string name="not_found">Not Found</string>
+    <string name="flag">Flag</string>
+
+    <string-array name="maxHistory">
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>150</item>
+    </string-array>
+
+</resources>
